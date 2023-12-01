@@ -82,3 +82,6 @@ desktopItems.push("Infinity Gauntlet")
 for(let item of desktopItems){
     console.log(item)
 }
+
+
+
